@@ -1,4 +1,4 @@
-# 003-CICD-python-hello-world
+# CICD python hello world
 
 Note: the name of our deployed application is: asg-ak-python-hello-world
 
